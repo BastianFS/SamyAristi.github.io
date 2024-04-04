@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color: azure;
+}
+p{
+    padding-left: 2rem;
+    color: gray;
+    
+}
+h1{
+    padding-left: 2rem;
+    padding-top: 2rem;
+}
+h4{
+    padding-left: 1rem;
+}
+ul{
+    padding-left:3rem;
+    color: gray;
+}
+ol{
+    padding-left:3rem;
+    color: gray;
+}
+img{
+    padding: 2rem;
+    padding-left: 3rem;
+}
